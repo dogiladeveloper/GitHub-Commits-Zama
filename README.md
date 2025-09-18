@@ -1,6 +1,6 @@
 # ✅ Complete Guide: How to Do More Than 10 Commits In GitHub Before 10 July
 
-This guide helps you complete **15 GitHub commits on 10 June** easily using **GitHub Codespaces** — so that you can participate in the **Zama Developer Program**: [https://x.com/EarnByAbhi/status/1940383606758842679?t=ssWyWOk0gNPsVHcDEQnP4Q&s=19](https://x.com/EarnByAbhi/status/1940383606758842679?t=ssWyWOk0gNPsVHcDEQnP4Q&s=19)
+This guide helps you complete **15 GitHub commits on 10 June** easily using **GitHub Codespaces** — so that you can participate in the **Zama Developer Program**: [https://x.com/EarnByAbhi/status/1940383606758842679?t=ssWyWOk0gNPsVHcDEQnP4Q&s=19](https://x.com/dogiladeveloper/status/1968462687425167709)
 
 ---
 
@@ -111,12 +111,6 @@ git push
 
 Follow & Stay Connected for More Zama Alpha, Airdrops & Dev Tutorials
 
-- 📍 X (Twitter): [@EarnByAbhi](https://x.com/earnbyabhi)
-- 💬 Telegram: [@EarnByAbhi23](https://t.me/earnbyabhi23)
-- ▶️ YouTube: [EarnByAbhi](https://www.youtube.com/@EarnByAbhi)
-
-> 🧠 Join our Telegram Community  
-For live help, updates, & early alpha drops  
-👉 [https://t.me/earnbyabhi23](https://t.me/earnbyabhi23)
+- 📍 X (Twitter): [@Dogila Developer](https://x.com/dogiladeveloper/)
 
 ---
